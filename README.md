@@ -11,3 +11,5 @@ newbranch
 still master
 
 localbranch
+
+branch2
